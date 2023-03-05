@@ -4,7 +4,7 @@
     {
         public static void Set(string Name)
         {
-            Resources.Languages.RUS.ResourceManager.GetObject(Name);
+            MyApp.Resources.Languages.RUS.ResourceManager.GetObject(Name);
         }
     }
 }

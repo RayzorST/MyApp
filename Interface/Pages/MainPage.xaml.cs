@@ -20,7 +20,6 @@ namespace MyApp.Pages
         public MainPage()
         {
             InitializeComponent();
-            //Uid.
         }
 
         private void Button_Click_Settings(object sender, RoutedEventArgs e)
